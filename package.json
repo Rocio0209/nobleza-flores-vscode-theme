@@ -1,0 +1,29 @@
+{
+    "name": "noble-bloom-color-theme",
+    "displayName": "Noble Bloom",
+    "description": "A VS Code color theme inspired by the anime Nobleza de las Flores.",
+    "version": "1.0.0",
+    "publisher": "Rocio0209",
+    "engines": {
+        "vscode": "^1.80.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Noble Bloom",
+                "uiTheme": "vs-dark",
+                "path": "./noble-bloom-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Rocio0209/nobleza-flores-vscode-theme.git"
+    },
+    "devDependencies": {
+        "@vscode/vsce": "^4.0.0"
+    }
+}
