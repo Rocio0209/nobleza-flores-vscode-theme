@@ -14,7 +14,7 @@
         "themes": [
             {
                 "label": "Noble Bloom",
-                "uiTheme": "vs-dark",
+                "uiTheme": "vs",
                 "path": "./noble-bloom-color-theme.json"
             }
         ]
